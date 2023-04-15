@@ -11,9 +11,9 @@
 **NLP:**
 
 -   _**[NLP: Toxic Comment](https://github.com/QY-W/Comments_NLP_Classification)**_
-    -   Preprocess data and perform Descriptive Analysis, LDA Topic Modeling and Visualization
-    -   Perform LSTMclassification with Tensorflow
-    -   Implement Pseudo-labeling/ XGBOOST and design newwork structure (in progress) 
+    -   Preprocess data and perform Descriptive Analysis, LDA and BERTopoic Topic Modeling and Visualization
+    -   Perform LSTM classification and XGBOOST with Tensorflow
+    -   Implement Pseudo-labeling and design network structure (in progress) 
 -   _**[Text Mining](https://github.com/QY-W/ML-Archive-/tree/main/Text%20Mining)**_
     -   Preprocess data and perform Descriptive Analysis, LDA Topic Modeling and Visualization
     -   Normalization, Vectorization, Text Classification
